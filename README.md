@@ -1,6 +1,7 @@
 # hr-workforce-analytics-excel-dashboard
 hr-workforce-analytics-excel-dashboard
 # 📊 Global HR Workforce Analytics & Employee Retention Project
+![Global HR Workforce Analytics Dashboard](dashboard_overview.png)
 
 An interactive workforce analysis evaluating employee turnover, compensation structures, and promotional pathways across global operating regions using **Microsoft Excel**.
 
